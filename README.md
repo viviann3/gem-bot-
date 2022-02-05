@@ -1,3 +1,3 @@
-# Welcome to Node 16!
+# Gem!
 
-This template provides an easy way to use NodeJS v16 on Replit! As of writing, NodeJS repls have Node v12, which is several years out of date.
+Gem bot is a bot that is mainly a moderation, music, kpop news and fun bot. It's a work in progress, please do not attempt to self-host it.
