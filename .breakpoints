@@ -12,8 +12,16 @@
       {
         "id": "147894d5-8bd1-4834-9bdf-0fdbcb2a7607",
         "line": 9,
-        "version": 207,
-        "index": 270
+        "version": 292,
+        "index": 418
+      }
+    ],
+    "commands/moderation/guild/massban.js": [
+      {
+        "id": "cc30a9a0-b79d-4a64-8af4-4d585f42504e",
+        "line": 1,
+        "version": 63,
+        "index": 0
       }
     ]
   }
