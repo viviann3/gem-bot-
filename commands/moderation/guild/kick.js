@@ -10,6 +10,6 @@ module.exports = {
     await user.kick({
       days: 0,
       reason: reason
-    }).catch(err => console.log(err)).then(() => message.reply(`✅ User **${user}** has been successfully kicked for: ${reason}.`))
+    }).catch(err => console.log(err)).then(() => message.reply(`<:check:935052019192954930> User **${user}** has been successfully kicked for: ${reason}.`))
   }
 }

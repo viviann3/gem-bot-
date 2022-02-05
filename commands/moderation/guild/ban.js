@@ -10,6 +10,6 @@ module.exports = {
     await user.ban({
       days: 0,
       reason: reason
-    }).catch(err => console.log(err)).then(() => message.reply(`✅ User **${user}** has been successfully banned for: ${reason}.`))
+    }).catch(err => console.log(err)).then(() => message.reply(`<:check:935052019192954930> User **${user}** has been successfully banned for: ${reason}.`))
   }
 }
